@@ -1,0 +1,25 @@
+{
+  "name": "clip-030-setting-up-project-with-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.4.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-simple-img": "^2.3.9"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "2.2.0",
+    "postcss-preset-env": "6.7.0",
+    "tailwindcss": "1.4.6"
+  }
+}
