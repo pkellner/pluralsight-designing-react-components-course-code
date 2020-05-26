@@ -1,4 +1,4 @@
-# pluralsight-course-using-react-hooks
+# pluralsight-designing-react-components
 The master branch here is the latest updates to the Pluralsight course published by Peter Kellner in May of 2020 in the master branch.
 
 # Course Code for [Designing React Components](https://app.pluralsight.com/profile/author/peter-kellner) on Pluralsight
