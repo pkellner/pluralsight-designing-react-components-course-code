@@ -12,14 +12,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^9.4.2",
+    "next": "^9.5.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-simple-img": "^2.3.9"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "2.2.0",
+    "@fullhuman/postcss-purgecss": "3.0.0",
     "postcss-preset-env": "6.7.0",
-    "tailwindcss": "1.4.6"
+    "tailwindcss": "1.8.13"
   }
 }
