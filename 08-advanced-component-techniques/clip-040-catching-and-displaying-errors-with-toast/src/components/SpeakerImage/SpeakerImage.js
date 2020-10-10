@@ -2,7 +2,7 @@ import React from 'react';
 import { SimpleImg } from 'react-simple-img';
 
 function SpeakerImage({ id }) {
-  const imageUrl = `/speakerimages/speaker-${id}.jpg`;
+  const imageUrl = `/speakerimages/Speaker-${id}.jpg`;
   return (
     <SimpleImg
       src={imageUrl}
