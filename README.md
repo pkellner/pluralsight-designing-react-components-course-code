@@ -8,7 +8,7 @@ The master branch here is the latest updates to the Pluralsight course published
 <hr/>
 
 ![Package NextJS Update Required 9.5.5](ImportantNotice.png)
-### October 9th, 2020 : You must update to NextJS version 9.5.5 when using any demos that include tailwindcss.  There is a serios bug that will cause the app to crash. if you do not do this.  The current repository here is updated to 9.5.5 in all package.json files, however, if you have an older download of this you will run into this problem (this affects all react projects starting in module 3).
+### October 9th, 2020 : You must update to NextJS version 9.5.5 when using any demos that include tailwindcss.  There is a serios bug that will cause the app to crash, if you do not do this.  The current repository here is updated to 9.5.5 in all package.json files, however, if you have an older download of this you will run into this problem (this affects all react projects starting in module 3).
 
 If you want to know more about this issue you can read the issue and the fix here: https://github.com/vercel/next.js/issues/17701
 
