@@ -19,6 +19,6 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "3.0.0",
     "postcss-preset-env": "6.7.0",
-    "tailwindcss": "1.8.13"
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   }
 }
