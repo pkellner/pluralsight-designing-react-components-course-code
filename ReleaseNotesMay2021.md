@@ -2,7 +2,7 @@
 
 ## All modules at least 95% new with exception of Module 7
 
-The course has been completely re-written, basically covering the same material but with many improvements.  
+The course has been completely re-written, basically covering the same material but with many improvements (and in HD 1080P also) 
 
 More examples are included buiding apps using the React Context API including integrating HOC's and Context in the final module.
 
