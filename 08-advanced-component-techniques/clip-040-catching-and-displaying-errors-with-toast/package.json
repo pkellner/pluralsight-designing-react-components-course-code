@@ -1,0 +1,30 @@
+{
+  "name": "react-components-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "json-server": "json-server --watch db.json --port 4000 --delay 5000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "9.5.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-notifications-component": "^2.4.1",
+    "react-simple-img": "^2.3.9",
+    "recompose": "^0.30.0"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "3.0.0",
+    "json-server": "^0.16.2",
+    "postcss-preset-env": "6.7.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
+  }
+}
