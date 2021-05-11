@@ -10,6 +10,7 @@ function SpeakerAdd({ eventYear, insertRecord }) {
             id: "99999",
             first: firstLastArray[0],
             last: firstLastArray[1],
+            bio: "Bio not entered yet",
             sessions: [
               {
                 id: "88888",
