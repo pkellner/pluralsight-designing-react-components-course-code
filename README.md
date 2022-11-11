@@ -8,13 +8,16 @@ Original course source code can be found in the branch [Course-Release-May-2020]
 
 # Recently Released Courses From Peter Kellner
 
-[Using Hooks in React 18](https://pluralsight.com/courses/react-18-using-hooks/)
-[What is React](https://pluralsight.com/courses/react-what-is/)
-[What's New in React 18](https://pluralsight.com/courses/react-18-whats-new/)
-
-# Course Code for [Designing React Components](https://app.pluralsight.com/library/courses/react-components-designing) on Pluralsight
+| **Course**                                                                           | Release Date  |
+|--------------------------------------------------------------------------------------|---------------|
+| **[Using Hooks in React 18](https://pluralsight.com/courses/react-18-using-hooks/)** | November 2022 |
+| **[What is React](https://pluralsight.com/courses/react-what-is/)**                  | August 2022   |
+| **[What's New in React 18](https://pluralsight.com/courses/react-18-whats-new/)**    | May 2022      |
 
 <hr/>
+# Course Code for [Designing React Components](https://app.pluralsight.com/library/courses/react-components-designing) on Pluralsight
+
+
 
 <br/>
 This GitHub repo includes the final code for all the modules in the course 
