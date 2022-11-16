@@ -19,7 +19,7 @@ Original course source code can be found in the branch [Course-Release-May-2020]
 | **[What is React](https://pluralsight.com/courses/react-what-is/)**                                                           | August 2022   |
 | **[What's New in React 18](https://pluralsight.com/courses/react-18-whats-new/)**                                             | May 2022      |
 | **[Data and UI Patterns in React](https://github.com/pkellner/pluralsight-building-essential-ui-data-elements-in-react/)**    | December 2021 |
-|-------------------------------------------------------------------------------------------------------------------------------|---------------|
+
 
 <hr/>
 
