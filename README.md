@@ -6,8 +6,9 @@
 
 This new course **"Working with Components in React 18"** covers all the learnings covered in **this course** as well as the new React
 Hooks `useTransition` and `useDeferredValue` and how those work with components. It also has an introduction to the new Server Components which is
-part of what comes with the new Concurrent Rendering Engine in React 18. The new course incorporates a lot of feedback from this course i
-ncluding more focus on React and less focus on the build chain NextJS. 
+part of what comes with the new Concurrent Rendering Engine in React 18. The new course incorporates a lot of feedback from this course including more focus on React and less focus on the build chain NextJS. 
+
+In addition, the example has been completely created from new. The newer course has a todo list as the example code. One thing that was not included in the new course is how to handle an optimistic UI. The method presented here is still current with that.
 
 There is nothing inaccurate in this course regarding hooks, the newer course is improved and more up to date in all regards.
 
