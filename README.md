@@ -1,6 +1,15 @@
 # Course Code for [Designing React Components](https://app.pluralsight.com/library/courses/react-components-designing) on Pluralsight
 
-<hr/>
+# IMPORTANT NOTICE: Updated Course: [Working with Components in React 18 (Released February 2023)](https://www.pluralsight.com/library/courses/react-18-working-components)
+
+![Updated Course Released at Different Location](working-with-components-in-react18-600px.png)
+
+This new course **"Working with Components in React 18"** covers all the learnings covered in **this course** as well as the new React
+Hooks `useTransition` and `useDeferredValue` and how those work with components. It also has an introduction to the new Server Components which is
+part of what comes with the new Concurrent Rendering Engine in React 18. The new course incorporates a lot of feedback from this course i
+ncluding more focus on React and less focus on the build chain NextJS. 
+
+There is nothing inaccurate in this course regarding hooks, the newer course is improved and more up to date in all regards.
 
 ## OTHER Recently Released Courses From Peter Kellner
 
